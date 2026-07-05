@@ -161,3 +161,9 @@ After reboot:
 | Ubuntu     | Run switch script | Windows |
 
 The system can now switch operating systems in both directions without requiring access to the UEFI boot menu, making it suitable for remote administration.
+
+
+
+https://github.com/user-attachments/assets/4bf931ef-541d-4a53-9749-9e2307504717
+
+
