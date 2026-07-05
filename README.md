@@ -1,4 +1,4 @@
-# DIMM HOME DEV - Dual Boot (UEFI)
+# DIMM HOME DEV - Remote Dual Boot Switch (UEFI)
 
 **Date:** 05/07/2026
 
